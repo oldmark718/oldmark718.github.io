@@ -1,3 +1,6 @@
+[1]陈斌,陈丽,王少伟.学习贯彻党的二十届三中全会精神推进中国特色财政文化建设——财政学史与财政文化年会（2024）会议综述[J/OL].财经智库,2024,(06):119-138[2025-01-12].https://doi.org/10.20032/j.cnki.cn10-1359/f.2024.06.007.
+[1]林宏,王少伟,王智烜.绿色地方政府专项债对企业环境、社会和公司治理表现的影响研究[J].科学决策,2024,(11):80-95.
+
 - <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
 
 - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
