@@ -2,7 +2,7 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'awards', 'workingpaper'];
+const section_names = ['home', 'publications', 'awards', 'workingpaper', 'photography'];
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -61,20 +61,6 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     })
-    // Load photography images
-    fetch(content_dir + 'photography.json')
-    .then(response => response.json())
-    .then(data => {
-        const gallery = document.getElementById('photography-gallery');
-        data.forEach(item => {
-        const col = document.createElement('div');
-        col.className = 'col-md-4';
-        col.innerHTML = `
-            <img src="${item.src}" class="img-fluid rounded shadow" alt="${item.alt}">
-        `;
-        gallery.appendChild(col);
-        });
-    })
-    .catch(error => console.log("Failed to load photography:", error));
+    
 
 }); 
