@@ -1,3 +1,2 @@
-- Chen Bin, Chen Li, **Wang Shaowei**. A Review of the Annual Conference on China's Fiscal Culture  Thought (2024). *Financial Minds* *(In Chinese)*
-
-- Lin Hong, **Wang Shaowei**, Wang Zhixuan. Study on the Impact of Green Local Government Special Debt on Corporate ESG Performance (2024). *Scientific Decision Making* *(In Chinese)*
+- Hong Lin, **Shaowei Wang**, Zhixuan Wang. (2024). Study on the Impact of Green Local Government Special Bond on Corporate ESG Performance. _Scientific Decision_, (11), 80-95. (In Chinese)
+- Bin Chen, Li Chen, **Shaowei Wang**. (2024). A Review of the Annual Conference on China’s Fiscal Culture andThought. _Financial Minds_, (06), 80-95. (In Chinese)
