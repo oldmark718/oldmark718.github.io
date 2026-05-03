@@ -1,4 +1,3 @@
-
-- Li Chen, **Shaowei Wang**, and Zhixuan Wang*. Catalyzing Chain Reactions: How Government Green Bonds Propagate Green Innovation through Supply Chain Spillover Effects (_**R&R**_: _Economic Analysis Policy_)
-- **Shaowei Wang**, Li Chen, Murilige Chao, and Zhixuan Wang*. Stay or Move? The Role of Urban Tax Competition in Cross-regional Investment Decisions _(Under review: Accounting and Finance)_
-- Murilige Chao, **Shaowei Wang**, and Zhixuan Wang*. Impact of Supply Chain Distance on Bullwhip Effect: the Moderating Role of Corporate Social Networks _(Under review: Review of Quantitative Finance and Accounting)_
+- Murilige Chao, Li Chen, Zhixuan Wang*, and **Shaowei Wang**, (2025). The Paradox of Tax Administration Digitalization: Supply Chain Spillovers through Tax Shifting
+- **Shaowei Wang**, Li Chen, Murilige Chao, and Zhixuan Wang*. Stay or Move? The Role of Urban Tax Competition in Cross-regional Investment Decisions _(Under review: Review of Development Economics)_
+- Murilige Chao, **Shaowei Wang**, and Zhixuan Wang*. Impact of Supply Chain Distance on Bullwhip Effect: the Moderating Role of Corporate Social Networks 

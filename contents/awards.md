@@ -2,7 +2,7 @@
 
 - Third-prize Scholarship of XNAI, *2024,2025* Top 40%.
 
-- Outstanding graduating of SDUFE, *2023* Top 20%.
+- Outstanding undergraduate student of SDUFE, *2023* Top 20%.
 
 - Second-prize Scholarship of SDUFE, *2020,2021,2022* Top 30%.
 

@@ -1,2 +1,3 @@
-- Hong Lin, **Shaowei Wang**, Zhixuan Wang. (2024). Study on the Impact of Green Local Government Special Bond on Corporate ESG Performance. _Scientific Decision_, (11), 80-95. (In Chinese)
-- Bin Chen, Li Chen, **Shaowei Wang**. (2024). A Review of the Annual Conference on China’s Fiscal Culture andThought. _Financial Minds_, (06), 80-95. (In Chinese)
+- Li Chen, **Shaowei Wang**, and Zhixuan Wang* (2026). The Impact of Government Green Bonds on Green Innovation: Evidence from Supply Chain Spillovers. *Economic Analysis and Policy*, Vol.90, PP. 981-997. https://doi.org/10.1016/j.eap.2026.02.004
+- Hong Lin, **Shaowei Wang**, Zhixuan Wang. (2024). Study on the Impact of Green Local Government Special Bond on Corporate ESG Performance. *Scientific Decision*, (11), 80-95. (In Chinese)
+- Bin Chen, Li Chen, **Shaowei Wang**. (2024). A Review of the Annual Conference on China’s Fiscal Culture andThought. *Financial Minds*, (06), 80-95. (In Chinese)
